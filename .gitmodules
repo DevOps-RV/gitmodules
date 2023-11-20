@@ -3,5 +3,5 @@
 	url = https://github.com/DevOps-RV/submodules.git
 
 [submodule "sub2"]
-	path = sub1
+	path = sub2
 	url = https://github.com/DevOps-RV/submodules2.git
